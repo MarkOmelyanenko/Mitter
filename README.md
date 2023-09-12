@@ -5,4 +5,4 @@ Mitter is a small social network that I used to explore the possibilities of Spr
 Because the tutorial was on version 2. 
 
 ## What did I use in this project?
-Spring Boot 2, PostgreSQL, Maven
+Spring Boot 2, PostgreSQL, Maven, Java 8
